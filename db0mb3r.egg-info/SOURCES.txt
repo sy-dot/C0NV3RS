@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 setup.py
@@ -36,6 +37,8 @@ db0mb3r/services/585gold.py
 db0mb3r/services/585zolotoy.py
 db0mb3r/services/aisttaxi.py
 db0mb3r/services/alfalife.py
+db0mb3r/services/allo.py
+db0mb3r/services/alltime.py
 db0mb3r/services/alpari.py
 db0mb3r/services/apteka.py
 db0mb3r/services/atprime.py
@@ -58,6 +61,7 @@ db0mb3r/services/cinema5.py
 db0mb3r/services/citilink.py
 db0mb3r/services/city24.py
 db0mb3r/services/cleversite.py
+db0mb3r/services/comfy.py
 db0mb3r/services/creditter.py
 db0mb3r/services/crossstudio.py
 db0mb3r/services/delimobil.py
@@ -79,6 +83,7 @@ db0mb3r/services/friendsclub.py
 db0mb3r/services/gazprombank.py
 db0mb3r/services/getmancar.py
 db0mb3r/services/ginzadelivery.py
+db0mb3r/services/gloriajeans.py
 db0mb3r/services/grilnica.py
 db0mb3r/services/gurutaxi.py
 db0mb3r/services/hatimaki.py
@@ -94,6 +99,7 @@ db0mb3r/services/iqlab.py
 db0mb3r/services/ivi.py
 db0mb3r/services/iwant.py
 db0mb3r/services/izi.py
+db0mb3r/services/kari.py
 db0mb3r/services/karusel.py
 db0mb3r/services/kaspi.py
 db0mb3r/services/kfc.py
@@ -138,6 +144,7 @@ db0mb3r/services/ozon.py
 db0mb3r/services/panpizza.py
 db0mb3r/services/paylate.py
 db0mb3r/services/pizza46.py
+db0mb3r/services/pizzahut.py
 db0mb3r/services/pizzakazan.py
 db0mb3r/services/pizzasinizza.py
 db0mb3r/services/pizzasushiwok.py
@@ -148,7 +155,9 @@ db0mb3r/services/pozichka.py
 db0mb3r/services/privatbank.py
 db0mb3r/services/prosushi.py
 db0mb3r/services/qbbox.py
+db0mb3r/services/qiwi.py
 db0mb3r/services/qlean.py
+db0mb3r/services/rabotaru.py
 db0mb3r/services/raiffeisen.py
 db0mb3r/services/rbt.py
 db0mb3r/services/rendesvouz.py
@@ -157,6 +166,7 @@ db0mb3r/services/richfamily.py
 db0mb3r/services/rieltor.py
 db0mb3r/services/rutaxi.py
 db0mb3r/services/rutube.py
+db0mb3r/services/savetime.py
 db0mb3r/services/sayoris.py
 db0mb3r/services/service.py
 db0mb3r/services/shafa.py
@@ -177,6 +187,7 @@ db0mb3r/services/sushifuji.py
 db0mb3r/services/sushigourmet.py
 db0mb3r/services/sushiprofi.py
 db0mb3r/services/sushivesla.py
+db0mb3r/services/sushiwok.py
 db0mb3r/services/tabasko.py
 db0mb3r/services/tabris.py
 db0mb3r/services/tanuki.py
