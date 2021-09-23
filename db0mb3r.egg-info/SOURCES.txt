@@ -195,6 +195,7 @@ db0mb3r/services/tarantinofamily.py
 db0mb3r/services/taxi310.py
 db0mb3r/services/taxiritm.py
 db0mb3r/services/tele2.py
+db0mb3r/services/tele2tv.py
 db0mb3r/services/telegram.py
 db0mb3r/services/thehive.py
 db0mb3r/services/tinder.py
